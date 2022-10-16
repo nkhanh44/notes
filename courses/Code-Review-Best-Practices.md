@@ -1,4 +1,6 @@
 
+This is a takeaway after completing this cource [Code Review: Best practices](https://app.pluralsight.com/library/courses/code-review-best-practices/table-of-contents).
+
 # 1. Why Code Reviews Exist
 
 ## Why?
