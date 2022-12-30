@@ -2,19 +2,18 @@
 
 Table of content
 
-1. [Just enough grammar](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#1)
-2. [Words](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#2)
-3. [Active voice](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#3)
-4. [Clear sentences](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#4)
-5. [Short sentences](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#5)
-6. [Lists and tables](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#6)
-7. [Paragraphs](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#7)
-8. [Audience](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#8)
-9. [Documents](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#9)
-10. [Punctuation](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#10)
-11. [Markdown](https://github.com/nkhanh44/notes/edit/develop/courses/Techinal-writing-one.md#11)
+1. [Just enough grammar](#just-enough-grammar)
+2. [Words](#words)
+3. [Active voice vs Passive voice](#active-voice-vs-passive-voice)
+4. [Clear sentences](#clear-sentences)
+5. [Short sentences](#short-sentences)
+6. [Lists and tables](#lists-and-tables)
+7. [Paragraphs](#paragraphs)
+8. [Audience](#audience)
+9. [Documents](#documents)
+10. [Punctuation](#punctuation)
 
-## [Just enough grammar][#1]
+## Just enough grammar
 
 Part of Speech
 - Noun -> a person, place, concept, or thing
@@ -26,7 +25,7 @@ Part of Speech
 - Conjunction -> a word that connects two nouns or phrases
 - Transition -> a word or phrase that connects two sentences
 
-## [Words][#2]
+## Words
 
 We researched documentation extensively, and it turns out that the best sentences in the world consist primarily of words.
 
@@ -71,7 +70,7 @@ _Note_: Do not cycle back-and-forth between the acronym and the expanded version
 
 Avoid using this or that in ways where it's not clear what they refer to.
 
-## Active voice vs. passive voice
+## Active voice vs Passive voice
 
 Distinguish active voice from passive voice in simple sentences
 ```
