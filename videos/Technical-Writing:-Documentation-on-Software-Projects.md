@@ -4,12 +4,13 @@ Table of content
 
 1. [The Writing Process](#the-writing-process)
 2. [Writing Tips and Best Practices](#writing-tips-and-best-practices)
-3. [Layout and Design](#layout-and-design)
-4. [Deliverables: Requirements](#deliverables:-requirements)
-5. [Deliverables: Design/Architecture](#deliverables:-design/Architecture)
-6. [Deliverables: Code Documentation](#deliverables:-code-documentation)
-7. [Deliverables: Test Plans and Test Cases](#deliverables:-test-plans-and-test-cases)
-8. [Deliverables: End-user Documentation](#deliverables:-end-user-documentation)
+3. [Layout and Design](#layout-and-design) <br>
+**Deliverables:**
+4. [Requirements](#requirements)
+5. [Design and Architecture](#design-and-architecture)
+6. [Code Documentation](#code-documentation)
+7. [Test Plans and Test Cases](#test-plans-and-test-cases)
+8. [End-user Documentation](#end-user-documentation)
 
 
 <img width="939" alt="Screenshot 2022-12-27 at 23 07 24" src="https://user-images.githubusercontent.com/25881847/210048408-26b4ae6a-4357-47a3-bfd1-6d873f26523d.png">
@@ -217,7 +218,8 @@ Visuals
 <img width="769" alt="Screenshot 2022-12-28 at 20 57 10" src="https://user-images.githubusercontent.com/25881847/210048669-8fb3a4b0-cd0a-41bb-9661-0eccf882adff.png">
 
 
-## Deliverables: Requirements
+## Requirements
+
 ```
 Poor Requirements = Project Failure
 ```
@@ -268,14 +270,14 @@ Software Requirements Specification (SRS)
 - Provide a platform for ongoing refinement
 
 
-## Deliverables: Design/Architecture
+## Design and Architecture
 
 ![Screenshot 2022-12-29 at 15 46 37](https://user-images.githubusercontent.com/25881847/210048853-17dc41d8-6acd-420e-996c-12af3f6f316b.png)
 
 The SDD gives the project team overall guidance on what and how to build software.
 http://ieeexplore.ieee.org and search for “Software Design Description”
 
-## Deliverables: Code Documentation
+## Code Documentation
 
 ### Code Comments
 
@@ -301,7 +303,7 @@ Twilio: An example of awesome API documentation
 Write your README before your code
 ![Screenshot 2022-12-29 at 16 47 40](https://user-images.githubusercontent.com/25881847/210048861-e52610a0-e5da-4ac1-9a68-d96cba99f801.png)
 
-## Deliverables: Test Plans and Test Cases
+## Test Plans and Test Cases
 
 ### Test Plan
 => Outlines the strategy of testing software to ensure it meets the design specifications and requirements.
@@ -316,7 +318,7 @@ Test Scenarios and Test Cases
 ![Screenshot 2022-12-30 at 14 18 14](https://user-images.githubusercontent.com/25881847/210048881-76539435-e55e-4f06-9845-eeff1395e79b.png)
 ![Screenshot 2022-12-30 at 14 18 32](https://user-images.githubusercontent.com/25881847/210048887-612a2c51-598f-4a95-aee5-e1f143c83f57.png)
 
-## Deliverables: End-user Documentation
+## End-user Documentation
 
 ### User Guides
 
