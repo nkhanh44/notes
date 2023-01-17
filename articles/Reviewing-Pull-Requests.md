@@ -1,5 +1,12 @@
 [Reviewing Pull Requests article](https://chelseatroy.com/2019/12/18/reviewing-pull-requests) by Chelsea Troy
 
+A cool reviewing pyramid
+
+![CFFDADEE-EB19-496B-B9A2-BF726A97E05E](https://user-images.githubusercontent.com/25881847/212945207-fbb4f28b-1c9c-4798-87c2-8ec76f51e64c.jpeg)
+
+
+
+
 ## 1. Why most pull request reviews suck
 
 - Pull requests work better for asynchronous communication.
