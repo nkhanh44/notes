@@ -1,5 +1,7 @@
 **[Effective communication at work](https://www.goodreads.com/book/show/53986806-effective-communication-at-work)**
 
+Note: the takeaway i noted and highlight from the book, the format of text is different on the Kindle. Therefore, it may cause the errors on grammarly.
+
 **Part 1: Speak and Write Better at Work**
 
 **Chapter 1: Why Communicating Well at Work Is Important**
