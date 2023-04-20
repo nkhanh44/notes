@@ -1,4 +1,4 @@
-**Effective communication at work**
+**[Effective communication at work](https://www.goodreads.com/book/show/53986806-effective-communication-at-work)**
 
 **Part 1: Speak and Write Better at Work**
 
